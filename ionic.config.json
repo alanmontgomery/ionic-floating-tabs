@@ -1,0 +1,7 @@
+{
+  "name": "ionic-floating-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
