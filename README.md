@@ -1,7 +1,7 @@
 # ionic-floating-tabs
 An example of a floating tab bar component
 
-![Ionic React Floating Tab Bar](https://repository-images.githubusercontent.com/358203630/3953e780-9ddf-11eb-9c0b-da2dde02dbfb)
+![Ionic React Floating Tab Bar](https://repository-images.githubusercontent.com/362276459/b9eded00-a7bc-11eb-8ad7-33043ba3cb27)
 
 ### Included in this Ionic React Template/UI
 * Floating tab bar
